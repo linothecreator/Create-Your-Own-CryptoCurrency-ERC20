@@ -1,1 +1,1 @@
-# Create-Your-Own-CryptoCurrency-ER
+# Create-Your-Own-CryptoCurrency-ERC20
