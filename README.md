@@ -5,8 +5,8 @@ Instalation order:
 -https://nodejs.org/en/
 
 2.npm install remixd
-now that node.js is installed
 run npm install remixd on your CMD
+https://remix-ide.readthedocs.io/en/latest/remixd.html
 
 3.(Optional) Download TruffleSuite
 https://www.trufflesuite.com/
