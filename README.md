@@ -1,5 +1,6 @@
 # Create-Your-Own-CryptoCurrency-ERC20
-Instalation order
+Instalation order:
+
 1 install node.js
 -https://nodejs.org/en/
 
